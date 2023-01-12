@@ -1,9 +1,6 @@
-run
-# Programmation dynamique
+# Travail de maturité (template)
 
 ## Installation
-
-
 
 ## Configuration de Sphinx
 
