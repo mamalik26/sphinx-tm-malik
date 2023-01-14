@@ -4,17 +4,15 @@
     contain the root `toctree` directive.
     
 
-Programmation dynamique
-=======================
+Développement d’un site de vente de produits locaux entre agriculteurs et consommateurs.
+========================================================================================
 
 ..  toctree::
     :maxdepth: 2
     :caption: Table des matières
 
-    introduction.rst
-    chapitre-01.rst
-    chapitre-02.md
-    conclusion.rst
+    introduction.md
+    marché_produits_locaux.md
     references.rst
 
 ..
