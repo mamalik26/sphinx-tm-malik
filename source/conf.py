@@ -41,7 +41,7 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_design",
     #"sphinxcontrib.spelling",
-    #"sphinxcontrib.bibtex",
+    "sphinxcontrib.bibtex",
     "sphinx.ext.graphviz",
     "sphinx_proof"
     
