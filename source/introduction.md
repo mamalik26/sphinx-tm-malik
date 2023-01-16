@@ -9,11 +9,11 @@ Le but de ce travail de maturité est de développer un site web de vente de pro
 
 ## Motivation personel.
 
-Ayant grandi à la campagne, j’ai depuis longtemps été proche de certains agriculteurs, ce qui m’a ouvert à l’univers de l’agricultre. Ce travail qui est essentiels à la vie commuautaire n’est pas forcément commode ni valorisé. J’ai également été sensibilisé aux enjeux liés à la durabilité environnementale et économique du secteur primaire.
+Ayant grandi à la campagne, j’ai depuis longtemps été proche de certains agriculteurs, ce qui m’a ouvert à l’univers de l’agriculture. Ce travail qui est essentiel à la vie communautaire n’est pas forcément commode ni valorisé. J’ai également été sensibilisé aux enjeux liés à la durabilité environnementale et économique du secteur primaire.
 
 En outre, j’ai été témoin de la situation difficile dans laquelle se trouvent certains agriculteurs en Suisse, notamment en raison de la hausse des coûts de production. J’ai voulu en savoir plus sur les défis auxquels les agriculteurs font face et sur les moyens de les soutenir, en particulier en les aidant à se connecter directement avec les consommateurs afin de favoriser les circuits courts.
 
-Un site de vente en ligne pourrait être une solution au devellopement , permettre aux clients l'acces à une alternative aux grandes surfaces, tout en réduisant les émissions de gaz à effet de serre liées au transport des produits sur de longues distances. Je suis donc convaincu que ce projet pourrait contribuer à améliorer la durabilité économique et environnementale de l'agriculture suisse. 
+Un site de vente en ligne pourrait être une solution au développement, permettre aux clients l’accès à une alternative aux grandes surfaces, tout en réduisant les émissions de gaz à effet de serre liées au transport des produits sur de longues distances. Je suis donc convaincu que ce projet pourrait contribuer à améliorer la durabilité économique et environnementale de l’agriculture suisse.
 
 ## Objectifs de ce travail de maturité.
 Les objectifs de notre travail sont :
